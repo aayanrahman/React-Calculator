@@ -8,4 +8,3 @@ export default function DigitButton( { dispatch, digit} ) {
     )
 }
 
-// /Users/Aayan/Documents/GitHub/React-Calculator/react-calculator/src/App.js
